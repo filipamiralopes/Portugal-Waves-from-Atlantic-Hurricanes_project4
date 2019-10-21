@@ -5,7 +5,7 @@
 ## Project Description
 In the ocean waves arise due to storms (e.g. hurricanes), and can be measure with buoys floating at the surface. In the present project I try to find a correlation between waves height in the Portuguese coast with hurricanes happening in the Atlantic Ocean (see report.pdf)
 
-##Contents
+## Contents
 Inside the folder "waves-portugal-hurricanes-atlantic" you will find:
 - code
 	- font: some code I had to implement in order to be able to plot the arrows for the waves graphs.
