@@ -8,7 +8,7 @@ In the ocean waves arise due to storms (e.g. hurricanes), and can be measure wit
 ## Contents
 Inside the folder "waves-portugal-hurricanes-atlantic" you will find:
 - code
-	- font: some code I had to implement in order to be able to plot the arrows for the waves graphs.
+	- font.ipynb: some code I had to implement in order to be able to plot the arrows for the waves graphs.
 	- huricanes_analysis.ipynb
 	- waves_analysis.ipynb: here I basically change the name of the file loaded depending on which wave I wanted to work on.
 - data_sets
