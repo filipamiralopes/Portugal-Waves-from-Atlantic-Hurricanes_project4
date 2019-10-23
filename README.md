@@ -3,7 +3,7 @@
 # Waves in Portugal vs. Hurricanes in the Atlantic Ocean
 
 ## Project Description
-In the ocean waves arise due to storms (e.g. hurricanes), and can be measure with buoys floating at the surface. In the present project I try to find a correlation between waves height in the Portuguese coast with hurricanes happening in the Atlantic Ocean (see report.pdf)
+In the ocean waves arise due to storms (e.g. hurricanes), and can be measure with buoys floating at the surface. In the present project I try to find a correlation between waves height in the Portuguese coast with hurricanes happening in the Atlantic Ocean (see report.pdf). Was interesting to break down the data from the Portuguese buoy and relate the waves' graphs with news and events happening on the same date in Portugal (e.g. 15 meters waves with SE wind direction on January 2014 coincide with news on sea damage on the same date).
 
 ## Contents
 Inside the folder "waves-portugal-hurricanes-atlantic" you will find:
