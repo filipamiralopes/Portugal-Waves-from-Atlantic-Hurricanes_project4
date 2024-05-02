@@ -16,4 +16,3 @@ Inside the folder "waves-portugal-hurricanes-atlantic" you will find:
 	- FLE0114.TXT & FLE0214.TXT: these are just two example files from the portuguese buoy data (the data I was given with I was not allowed to share). Each file represents a month (FLEMMYY, M for month, Y for year). In the waves_analysis.ipynb, the first cell, in comment, explains what is each columns in these FLEMMYY.TXT files (source: Hydrographic Institute, Portuguese Agency for Environment (APA)).
 - report.pdf
 - slides.pdf
-- bla
